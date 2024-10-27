@@ -1,0 +1,21 @@
+.banner {
+	background-image: url("banner.jpg");
+	background-size: cover;
+	padding: 150px;
+	background-position: center;
+}
+
+.banner h1 {
+	font-size: 60px;
+	text-align: left;
+	text-shadow: 2px 2px #000000;
+	line-height: 25px;
+	color: rgb(228,205,123);
+}
+
+.banner h2 {
+	font-size: 50px;
+	text-align: left;
+	text-shadow: 2px 2px #000000;
+	line-height: 25px;
+}
